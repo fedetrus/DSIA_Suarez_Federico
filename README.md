@@ -1,4 +1,4 @@
-# Desarrollo de Sistemas de Inteligencia Artificial - [2026]
+# Desarrollo de Sistemas de Inteligencia Artificial - 2026
 
 **Estudiante:** Suárez, Federico
 
@@ -8,7 +8,7 @@
 
 ## Aspectos Más Interesantes del Curso
 
-- lorem ipsum
+- Es muy interesante como se van integrando distintos conocimientos de otras materias para poder de a poco construir un proyecto de DSIA.
 
 ## Listado de Trabajos Prácticos Realizados
 
