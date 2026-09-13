@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Archivos locales (lineamientos, datasets, TPs anteriores) - no se suben al repo
+local/
